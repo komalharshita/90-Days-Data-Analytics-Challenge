@@ -1,0 +1,19 @@
+customer_id,name,city,age,email
+1,Aisha Khan,Delhi,21,aisha.khan@example.com
+2,Rahul Verma,Mumbai,24,rahul.verma@example.com
+3,Sneha Iyer,Bangalore,23,sneha.iyer@example.com
+4,Kabir Patel,Ahmedabad,26,kabir.patel@example.com
+5,Meera Joshi,Mumbai,20,meera.joshi@example.com
+6,Ananya Das,Kolkata,25,ananya.das@example.com
+7,Rohan Gupta,Pune,27,rohan.gupta@example.com
+8,Simran Kaur,Chandigarh,22,simran.kaur@example.com
+9,Vikram Singh,Hyderabad,29,vikram.singh@example.com
+10,Priya Nair,Chennai,24,priya.nair@example.com
+11,Devansh Mehta,Jaipur,28,devansh.mehta@example.com
+12,Tara Sharma,Delhi,19,tara.sharma@example.com
+13,Arjun Reddy,Hyderabad,30,arjun.reddy@example.com
+14,Nisha Rao,Bangalore,21,nisha.rao@example.com
+15,Sahil Khan,Mumbai,32,sahil.khan@example.com
+16,Pooja Patel,Ahmedabad,26,pooja.patel@example.com
+17,Ishaan Malhotra,Pune,23,ishaan.malhotra@example.com
+18,Kavya Menon,Kochi,22,kavya.menon@example.com
