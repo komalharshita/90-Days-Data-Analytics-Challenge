@@ -1,0 +1,41 @@
+product_id,product_name,category,target_gender,brand,price,city,units_sold,rating
+1,Ajrakh Print Kurti,Clothing,Women,Biba,1299,Delhi,180,4.4
+2,Handloom Cotton Saree,Clothing,Women,Suta,2499,Mumbai,120,4.6
+3,Printed Palazzo Pants,Clothing,Women,W,1599,Bangalore,145,4.2
+4,Men's Nehru Jacket,Clothing,Men,Manyavar,2999,Delhi,90,4.5
+5,Ethnic Jhumka Set,Accessories,Women,Anouk,499,Jaipur,210,4.3
+6,Kolhapuri Chappals,Footwear,Women,Needledust,1899,Pune,130,4.4
+7,Block Print Dupatta,Accessories,Women,Fabindia,899,Delhi,170,4.5
+8,Indigo Shirt,Clothing,Men,Okhai,1999,Mumbai,110,4.2
+9,Handcrafted Sling Bag,Accessories,Women,Jaypore,1799,Jaipur,95,4.6
+10,Cotton Pathani Kurta,Clothing,Men,Sojanya,1499,Hyderabad,140,4.1
+11,Bandhani Dress,Clothing,Women,Gulabo Jaipur,2299,Jaipur,85,4.5
+12,Oxidized Silver Bangles,Accessories,Women,Giva,699,Delhi,240,4.3
+13,Leather Mojris,Footwear,Women,Needledust,2599,Mumbai,75,4.6
+14,Khadi Cotton Shirt,Clothing,Men,Khadi India,999,Varanasi,160,4.2
+15,Printed Cotton Stole,Accessories,Women,Fabindia,799,Delhi,190,4.4
+16,Boho Chunky Necklace,Accessories,Women,Nykaa Fashion,1199,Mumbai,130,4.1
+17,Embroidered Potli Bag,Accessories,Women,Indya,899,Delhi,155,4.5
+18,Floral Anarkali Kurta,Clothing,Women,Aurelia,1899,Lucknow,125,4.3
+19,Men's Casual Linen Shirt,Clothing,Men,And,1799,Bangalore,140,4.0
+20,Mirror Work Clutch,Accessories,Women,Okhai,1499,Ahmedabad,90,4.6
+21,Women's Block Heel Sandals,Footwear,Women,Metro,2199,Mumbai,115,4.2
+22,Silk Blend Dupatta,Accessories,Women,Biba,999,Delhi,170,4.4
+23,Printed Cotton Co-ord Set,Clothing,Women,Libas,2099,Delhi,105,4.3
+24,Handwoven Ikat Kurta,Clothing,Men,Taneira,2699,Hyderabad,95,4.5
+25,Cotton Lounge Wear Set,Clothing,Women,Zivame,1599,Bangalore,130,4.1
+26,Men's Leather Wallet,Accessories,Men,Hidesign,2499,Chennai,80,4.4
+27,Minimal Gold Plated Earrings,Accessories,Women,CaratLane,1999,Mumbai,150,4.6
+28,Casual Graphic T-shirt,Clothing,Men,Roadster,799,Delhi,220,4.0
+29,High Waist Denim Jeans,Clothing,Women,Sassafras,1999,Bangalore,175,4.2
+30,Men's Running Shoes,Footwear,Men,Nike,4999,Delhi,140,4.7
+31,Women's White Sneakers,Footwear,Women,Puma,3999,Mumbai,155,4.5
+32,Structured Office Tote Bag,Accessories,Women,Zouk,1899,Mumbai,135,4.4
+33,Ethnic Printed Cape,Clothing,Women,Indya,1699,Delhi,110,4.3
+34,Cotton Short Kurta,Clothing,Men,Manyavar,1399,Delhi,150,4.2
+35,Handcrafted Beaded Anklet,Accessories,Women,Jaypore,499,Jaipur,200,4.1
+36,Pastel Linen Saree,Clothing,Women,Suta,2899,Mumbai,95,4.7
+37,Men's Slim Fit Jeans,Clothing,Men,Levis,2799,Bangalore,125,4.4
+38,Women's Oversized Hoodie,Clothing,Women,H&M,1999,Delhi,170,4.0
+39,Printed Canvas Backpack,Accessories,Unisex,Zouk,2299,Pune,90,4.5
+40,Bridal Kundan Necklace Set,Accessories,Women,Tribe Amrapali,5999,Jaipur,65,4.8
