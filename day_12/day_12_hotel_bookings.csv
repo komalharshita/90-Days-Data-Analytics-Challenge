@@ -1,0 +1,39 @@
+booking_id,customer_name,city,hotel_name,room_type,region,booking_month,nights,price_per_night,total_amount
+1,Aarav Sharma,Delhi,The Imperial,Deluxe,North,Jan,3,4500,13500
+2,Meera Iyer,Chennai,ITC Grand,Suite,South,Jan,2,6200,12400
+3,Rohan Gupta,Mumbai,Taj Lands End,Deluxe,West,Jan,4,5500,22000
+4,Simran Kaur,Amritsar,Hyatt Regency,Standard,North,Feb,2,3200,6400
+5,Aditya Singh,Jaipur,Rambagh Palace,Suite,North,Feb,3,9000,27000
+6,Neha Joshi,Pune,JW Marriott,Deluxe,West,Feb,1,4800,4800
+7,Kabir Mehta,Ahmedabad,Courtyard Marriott,Standard,West,Mar,2,3500,7000
+8,Pooja Nair,Kochi,Brunton Boatyard,Deluxe,South,Mar,3,5100,15300
+9,Vikram Rao,Bangalore,The Leela Palace,Suite,South,Mar,2,7800,15600
+10,Ananya Das,Kolkata,ITC Sonar,Deluxe,East,Apr,4,4600,18400
+11,Rahul Jain,Delhi,The Lalit,Standard,North,Apr,1,2800,2800
+12,Sneha Patil,Mumbai,Taj Mahal Palace,Suite,West,Apr,3,9200,27600
+13,Arjun Reddy,Hyderabad,Park Hyatt,Deluxe,South,May,2,5600,11200
+14,Kavya Menon,Trivandrum,Hycinth Hotels,Standard,South,May,2,3100,6200
+15,Mohit Bansal,Delhi,Radisson Blu,Deluxe,North,May,3,4900,14700
+16,Zoya Khan,Mumbai,St Regis,Suite,West,Jun,2,10500,21000
+17,Ritwik Sen,Kolkata,Pride Plaza,Standard,East,Jun,1,2600,2600
+18,Tanvi Kulkarni,Pune,Conrad Pune,Deluxe,West,Jun,2,6100,12200
+19,Nikhil Verma,Delhi,Roseate House,Suite,North,Jul,3,8800,26400
+20,Isha Kapoor,Chandigarh,Taj Chandigarh,Deluxe,North,Jul,2,5300,10600
+21,Suresh Pillai,Kochi,Taj Malabar,Standard,South,Jul,1,3000,3000
+22,Riya Shah,Mumbai,Novotel Juhu,Deluxe,West,Aug,2,4700,9400
+23,Amanpreet Singh,Ludhiana,Radisson Blu,Standard,North,Aug,1,2900,2900
+24,Nandita Bose,Kolkata,The Oberoi Grand,Suite,East,Aug,2,7600,15200
+25,Kunal Arora,Delhi,Vivanta,Deluxe,North,Sep,2,5200,10400
+26,Divya Jain,Jaipur,Alsisar Haveli,Standard,North,Sep,3,3400,10200
+27,Rohit Naik,Goa,W Goa,Suite,West,Sep,2,9800,19600
+28,Alisha D'Souza,Goa,Taj Fort Aguada,Deluxe,West,Oct,3,6700,20100
+29,Siddharth Roy,Kolkata,ITC Royal Bengal,Deluxe,East,Oct,2,5900,11800
+30,Bhavya Jain,Udaipur,The Oberoi Udaivilas,Suite,North,Oct,2,15000,30000
+31,Manish Gupta,Delhi,Hotel Ashok,Standard,North,Nov,1,2500,2500
+32,Shreya Ghoshal,Mumbai,Taj Santacruz,Deluxe,West,Nov,2,6100,12200
+33,Akhil Nair,Bangalore,ITC Gardenia,Standard,South,Nov,2,3700,7400
+34,Tanya Kapoor,Delhi,Pullman Aerocity,Suite,North,Dec,3,8900,26700
+35,Vivek Mishra,Lucknow,Lebua Resort,Deluxe,North,Dec,2,4800,9600
+36,Anjali Singh,Varanasi,BrijRama Palace,Suite,North,Dec,2,11200,22400
+37,Rajat Malhotra,Mumbai,Trident Nariman,Standard,West,Dec,1,3100,3100
+38,Sonal Desai,Ahmedabad,House of MG,Deluxe,West,Dec,2,5400,10800
