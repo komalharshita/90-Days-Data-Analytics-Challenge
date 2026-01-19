@@ -1,0 +1,39 @@
+enrollment_id,student_name,course_name,category,level,enrollment_month,course_price,rating
+1,Ananya,Python Basics,Programming,Beginner,Jan,1200,4.5
+2,Rohit,Data Analysis with Excel,Analytics,Beginner,Jan,999,4.2
+3,Mehul,SQL Foundations,Analytics,Beginner,Feb,1099,4.6
+4,Sneha,Web Development Bootcamp,Programming,Intermediate,Feb,2499,4.4
+5,Kunal,Machine Learning Intro,Data Science,Beginner,Mar,1999,4.3
+6,Pooja,Power BI Essentials,Analytics,Beginner,Mar,1299,4.5
+7,Arjun,Advanced Python,Programming,Advanced,Apr,2799,4.7
+8,Ishita,Statistics for Data Science,Data Science,Intermediate,Apr,1599,4.4
+9,Rahul,Digital Marketing Basics,Marketing,Beginner,May,899,4.1
+10,Neha,UI/UX Design,Design,Beginner,May,1499,4.3
+11,Vikram,Cloud Computing Fundamentals,IT,Intermediate,Jun,1899,4.2
+12,Simran,Cybersecurity Essentials,IT,Beginner,Jun,1699,4.5
+13,Aditya,SQL Intermediate,Analytics,Intermediate,Jul,1399,4.6
+14,Riya,Content Writing Masterclass,Marketing,Beginner,Jul,799,4.0
+15,Sarthak,React.js Crash Course,Programming,Intermediate,Aug,1799,4.4
+16,Tanvi,Business Analytics Basics,Analytics,Beginner,Aug,1199,4.3
+17,Aman,Deep Learning Intro,Data Science,Advanced,Sep,2999,4.7
+18,Kavya,Graphic Design with Canva,Design,Beginner,Sep,699,4.2
+19,Nikhil,DevOps Fundamentals,IT,Intermediate,Oct,2199,4.4
+20,Priya,Financial Modeling,Finance,Intermediate,Oct,1899,4.5
+21,Rohan,Python for Data Analysis,Data Science,Intermediate,Nov,1599,4.6
+22,Divya,Public Speaking Skills,Soft Skills,Beginner,Nov,599,4.1
+23,Yash,Game Development Basics,Programming,Beginner,Dec,1299,4.3
+24,Shalini,HR Analytics,Analytics,Intermediate,Dec,1499,4.4
+25,Kabir,Entrepreneurship 101,Business,Beginner,Dec,999,4.2
+26,Aditi,Advanced Excel,Analytics,Intermediate,Jan,1399,4.6
+27,Manav,Java Programming,Programming,Beginner,Feb,1099,4.1
+28,Sonal,Tableau for Beginners,Analytics,Beginner,Mar,1299,4.3
+29,Harsh,Blockchain Basics,Technology,Beginner,Apr,1799,4.2
+30,Isha,Product Management Intro,Business,Beginner,May,1499,4.4
+31,Kartik,Ethical Hacking,IT,Advanced,Jun,2799,4.6
+32,Rupal,Data Visualization,Analytics,Intermediate,Jul,1599,4.5
+33,Sameer,Android App Development,Programming,Intermediate,Aug,1899,4.4
+34,Payal,SEO Fundamentals,Marketing,Beginner,Sep,899,4.1
+35,Dev,Statistics Advanced,Data Science,Advanced,Oct,2599,4.7
+36,Naina,Communication Skills,Soft Skills,Beginner,Nov,499,4.0
+37,Omkar,SQL for Interviews,Analytics,Intermediate,Dec,1199,4.6
+38,Tanya,UX Research Basics,Design,Beginner,Dec,999,4.2
