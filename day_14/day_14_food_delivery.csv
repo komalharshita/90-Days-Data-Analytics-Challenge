@@ -1,0 +1,46 @@
+order_id,customer_name,city,restaurant,item_category,price,quantity,month,order_value
+1,Aarav,Delhi,Dominos,Pizza,499,2,Jan,998
+2,Meera,Mumbai,McDonalds,Burger,299,1,Jan,299
+3,Rohit,Delhi,Behrouz Biryani,Biryani,649,2,Jan,1298
+4,Simran,Chandigarh,Dominos,Pizza,459,1,Feb,459
+5,Kabir,Mumbai,Subway,Wrap,349,1,Feb,349
+6,Pooja,Bangalore,Truffles,Burger,399,2,Feb,798
+7,Aditya,Delhi,Dominos,Pizza,499,3,Mar,1497
+8,Neha,Delhi,Wow Momo,Momos,199,2,Mar,398
+9,Ishaan,Mumbai,Behrouz Biryani,Biryani,699,1,Mar,699
+10,Tanvi,Pune,Faasos,Wrap,299,2,Mar,598
+11,Rahul,Delhi,McDonalds,Burger,249,1,Apr,249
+12,Sana,Mumbai,Starbucks,Coffee,349,1,Apr,349
+13,Arjun,Bangalore,Dominos,Pizza,479,2,Apr,958
+14,Kavya,Delhi,Haldirams,Snacks,199,3,Apr,597
+15,Riya,Jaipur,Burger Farm,Burger,279,2,May,558
+16,Mohit,Delhi,Behrouz Biryani,Biryani,649,2,May,1298
+17,Ananya,Mumbai,Starbucks,Coffee,399,1,May,399
+18,Dev,Bangalore,Truffles,Burger,449,2,Jun,898
+19,Tanya,Delhi,Wow Momo,Momos,229,2,Jun,458
+20,Kunal,Pune,Dominos,Pizza,499,1,Jun,499
+21,Suresh,Chennai,Saravana Bhavan,South Indian,259,2,Jul,518
+22,Divya,Delhi,Subway,Wrap,329,1,Jul,329
+23,Rohit,Mumbai,Faasos,Wrap,299,2,Jul,598
+24,Megha,Delhi,Dominos,Pizza,549,1,Aug,549
+25,Ankit,Bangalore,Burger Seigneur,Burger,499,1,Aug,499
+26,Sneha,Mumbai,Haldirams,Snacks,249,2,Aug,498
+27,Yash,Delhi,Behrouz Biryani,Biryani,699,2,Sep,1398
+28,Pallavi,Pune,Cafe Goodluck,Coffee,199,2,Sep,398
+29,Ramesh,Chennai,Dominos,Pizza,459,1,Sep,459
+30,Kriti,Delhi,Starbucks,Coffee,379,1,Oct,379
+31,Nikhil,Mumbai,Truffles,Burger,449,2,Oct,898
+32,Riya,Jaipur,Faasos,Wrap,299,1,Oct,299
+33,Om,Pune,McDonalds,Burger,279,1,Nov,279
+34,Shreya,Delhi,Dominos,Pizza,599,2,Nov,1198
+35,Vikas,Bangalore,Behrouz Biryani,Biryani,649,1,Nov,649
+36,Anjali,Mumbai,Starbucks,Coffee,429,1,Dec,429
+37,Tarun,Delhi,Wow Momo,Momos,249,2,Dec,498
+38,Nisha,Bangalore,Dominos,Pizza,499,1,Dec,499
+39,Raj,Delhi,KFC,Chicken,599,1,Dec,599
+40,Priya,Mumbai,KFC,Chicken,649,1,Dec,649
+41,Arpit,Delhi,Burger King,Burger,299,2,Jun,598
+42,Zara,Mumbai,Burger King,Burger,319,1,Jun,319
+43,Gaurav,Delhi,Chaayos,Tea,199,2,Jul,398
+44,Mitali,Pune,Chaayos,Tea,179,1,Jul,179
+45,Sameer,Bangalore,Chaayos,Tea,189,1,Aug,189
