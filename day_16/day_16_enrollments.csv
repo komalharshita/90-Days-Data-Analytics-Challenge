@@ -1,0 +1,19 @@
+enrollment_id,student_id,course_name,category,fee,month
+301,1,Python Basics,Programming,1200,Jan
+302,1,SQL Fundamentals,Data,1000,Feb
+303,2,Digital Marketing,Marketing,1500,Jan
+304,2,Content Writing,Marketing,800,Feb
+305,3,Financial Accounting,Commerce,1100,Mar
+306,4,Data Structures,Programming,1800,Jan
+307,4,Algorithms,Programming,2000,Feb
+308,5,Psychology 101,Humanities,900,Jan
+309,6,Statistics,Data,1400,Feb
+310,7,Business Strategy,Management,1600,Mar
+311,8,Machine Learning Intro,Data,2200,Mar
+312,8,Python Basics,Programming,1200,Jan
+313,9,Web Design,Design,1300,Feb
+314,10,Cloud Computing,Tech,2500,Jan
+315,10,DevOps Basics,Tech,1900,Mar
+316,2,SEO Fundamentals,Marketing,700,Mar
+317,3,Excel for Business,Commerce,950,Feb
+318,5,Creative Writing,Humanities,850,Mar
