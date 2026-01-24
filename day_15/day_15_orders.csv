@@ -1,0 +1,19 @@
+order_id,customer_id,product,category,amount,month
+101,1,Laptop,Electronics,55000,Jan
+102,1,Mouse,Electronics,700,Feb
+103,2,Shoes,Fashion,2500,Jan
+104,2,T-Shirt,Fashion,1200,Feb
+105,2,Jeans,Fashion,3000,Mar
+106,3,Book,Education,500,Jan
+107,4,Phone,Electronics,20000,Feb
+108,4,Earphones,Electronics,1500,Mar
+109,5,Tablet,Electronics,28000,Jan
+110,5,Cover,Accessories,800,Feb
+111,6,Makeup Kit,Beauty,2200,Mar
+112,7,Keyboard,Electronics,1800,Jan
+113,8,Shoes,Fashion,2600,Mar
+114,8,Jacket,Fashion,4200,Mar
+115,9,Notebook,Education,300,Feb
+116,10,Headphones,Electronics,3200,Jan
+117,10,Speaker,Electronics,4500,Feb
+118,10,Charger,Electronics,900,Mar
