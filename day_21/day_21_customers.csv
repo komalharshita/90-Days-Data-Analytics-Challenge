@@ -1,0 +1,21 @@
+customer_id,name,city,age,hair_type,scalp_type,acquisition_channel
+1,Aanya,Delhi,23,Curly,Oily,Instagram
+2,Meera,Mumbai,26,Wavy,Dry,YouTube
+3,Ritika,Bangalore,24,Straight,Normal,Friend Referral
+4,Pooja,Pune,28,Curly,Dry,Instagram
+5,Sneha,Delhi,22,Wavy,Oily,College Event
+6,Kriti,Jaipur,30,Straight,Normal,Google Ads
+7,Nisha,Chennai,27,Curly,Oily,Instagram
+8,Tanya,Mumbai,25,Wavy,Normal,YouTube
+9,Riya,Kolkata,21,Straight,Dry,Instagram
+10,Ishita,Delhi,29,Curly,Normal,Friend Referral
+11,Anjali,Indore,24,Wavy,Oily,Instagram
+12,Simran,Chandigarh,26,Straight,Normal,Google Ads
+13,Kavya,Bangalore,23,Curly,Dry,YouTube
+14,Neha,Pune,31,Wavy,Normal,Instagram
+15,Sakshi,Mumbai,20,Straight,Oily,College Event
+16,Rashmi,Delhi,27,Curly,Dry,Instagram
+17,Priya,Lucknow,28,Wavy,Normal,Friend Referral
+18,Shalini,Bhopal,25,Straight,Dry,Google Ads
+19,Monika,Delhi,33,Curly,Oily,YouTube
+20,Aditi,Mumbai,22,Wavy,Normal,Instagram

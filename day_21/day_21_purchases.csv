@@ -1,0 +1,31 @@
+purchase_id,customer_id,product,category,amount,purchase_date
+101,1,Curl Defining Cream,Styling,899,2024-01-05
+102,1,Hydrating Shampoo,Shampoo,499,2024-02-12
+103,2,Argan Hair Mask,Treatment,999,2024-01-15
+104,3,Anti-Dandruff Shampoo,Shampoo,599,2024-02-01
+105,4,Leave-In Conditioner,Conditioner,699,2024-03-10
+106,5,Hair Serum,Styling,399,2024-01-22
+107,6,Protein Hair Mask,Treatment,1099,2024-02-18
+108,7,Clarifying Shampoo,Shampoo,549,2024-03-02
+109,8,Heat Protectant Spray,Styling,799,2024-02-14
+110,9,Moisture Conditioner,Conditioner,649,2024-01-30
+111,10,Curl Gel,Styling,499,2024-03-05
+112,11,Scalp Scrub,Treatment,899,2024-02-25
+113,12,Smoothing Shampoo,Shampoo,599,2024-03-11
+114,13,Repair Hair Mask,Treatment,1199,2024-01-18
+115,14,Light Conditioner,Conditioner,549,2024-02-07
+116,15,Hair Oil,Treatment,399,2024-03-21
+117,16,Curl Defining Cream,Styling,899,2024-02-03
+118,17,Volumizing Shampoo,Shampoo,649,2024-01-27
+119,18,Anti-Frizz Serum,Styling,699,2024-02-20
+120,19,Deep Repair Mask,Treatment,1299,2024-03-15
+121,20,Herbal Shampoo,Shampoo,499,2024-01-09
+122,2,Heat Protectant Spray,Styling,799,2024-03-18
+123,4,Hair Serum,Styling,399,2024-01-11
+124,6,Argan Conditioner,Conditioner,749,2024-03-07
+125,8,Protein Hair Mask,Treatment,1099,2024-01-19
+126,10,Scalp Scrub,Treatment,899,2024-02-09
+127,14,Curl Gel,Styling,499,2024-03-25
+128,16,Hydrating Shampoo,Shampoo,499,2024-01-16
+129,19,Leave-In Conditioner,Conditioner,699,2024-02-28
+130,7,Hair Oil,Treatment,399,2024-01-04
