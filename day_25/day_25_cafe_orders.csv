@@ -1,0 +1,11 @@
+order_id,customer_name,city,item,price
+101,Anaya,Delhi,Latte,Rs.250
+102,Meera,Mumbai,Mocha,Rs.300
+103,Ritu,Pune,Espresso,Rs.200
+104,Pooja,Delhi,Latte,Rs.250
+105,Sneha,Bangalore,Cappuccino,Rs.320
+106,Ira,Mumbai,Espresso,Rs.200
+107,Naina,Pune,Mocha,Rs.300
+108,Kavya,Delhi,Latte,Rs.250
+109,Diya,Bangalore,Mocha,Rs.300
+110,Tara,Pune,Cappuccino,Rs.320
