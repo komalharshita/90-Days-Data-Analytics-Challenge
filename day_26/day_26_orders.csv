@@ -1,0 +1,11 @@
+order_id,customer_id,item,price
+201,1,Serum,Rs.450
+202,2,Shampoo,Rs.300
+203,1,Oil,Rs.250
+204,3,Conditioner,Rs.350
+205,4,Serum,Rs.450
+206,6,Oil,Rs.250
+207,7,Shampoo,Rs.300
+208,8,Serum,Rs.450
+209,5,Conditioner,Rs.350
+210,2,Oil,Rs.250
