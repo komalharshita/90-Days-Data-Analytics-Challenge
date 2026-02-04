@@ -1,0 +1,9 @@
+name,city,price,order_id
+Aanya,Delhi,1,[]
+Meera,Mumbai,850,['ORD1002']
+Riya,Pune,2,[]
+Pooja,Delhi,999,['ORD1004']
+Sneha,Bangalore,1,[]
+Ira,Mumbai,700,['ORD1006']
+Naina,Pune,1,[]
+Kavya,Delhi,1,[]
