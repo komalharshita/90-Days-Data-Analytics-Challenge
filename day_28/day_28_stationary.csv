@@ -1,0 +1,11 @@
+item_id,item_name,category,price,stock,last_restock
+1,Notebook,Paper,50,100,2026-01-10
+2,Pen,Writing,10,500,2026-01-12
+3,Pencil,Writing,5,800,2026-01-08
+4,Marker,Writing,30,200,2026-01-15
+5,Eraser,Utility,3,600,2026-01-05
+6,Ruler,Utility,15,150,2026-01-09
+7,Highlighter,Writing,25,180,2026-01-14
+8,Glue,Utility,20,120,2026-01-11
+9,Stapler,Utility,80,60,2026-01-07
+10,Sharpener,Utility,7,300,2026-01-13
