@@ -1,0 +1,11 @@
+student_id,name,age,city,math_score,attendance
+1,Aanya,21.0,Delhi,85.0,92.0
+2,Meera,22.0,Mumbai,90.0,91.0
+3,Riya,22.0,Pune,86.5,85.0
+4,Pooja,23.0,Pune,88.0,95.0
+5,Sneha,22.0,Bangalore,92.0,98.0
+6,Ira,22.0,Mumbai,74.0,80.0
+7,Naina,21.0,Pune,81.0,91.0
+8,Kavya,24.0,Delhi,86.5,83.0
+9,Diya,23.0,Pune,95.0,97.0
+10,Tara,22.0,Pune,87.0,90.0
