@@ -1,0 +1,16 @@
+order_id,customer,city,order_amount,quantity
+1,Aanya,Delhi,500.0,2
+2,Meera,Mumbai,650.0,3
+3,Riya,Pune,700.0,4
+4,Pooja,Delhi,550.0,2
+5,Sneha,Bangalore,600.0,3
+6,Ira,Mumbai,620.0,3
+7,Naina,Pune,580.0,2
+8,Kavya,Delhi,590.0,4
+9,Diya,Mumbai,610.0,3
+10,Tara,Pune,605.0,2
+11,Aarohi,Delhi,882.5,50
+12,Ishita,Mumbai,750.0,3
+13,Neha,Pune,680.0,4
+14,Palak,Delhi,720.0,3
+15,Simran,Mumbai,882.5,60
