@@ -1,0 +1,21 @@
+event_id,event_name,registration_date,city
+201, Tech Meetup ,2025-06-01, Delhi 
+202,AI Conference!!,01/06/2025,MUMBAI
+203,data science workshop,"June 3, 2025",bangalore
+204,Women-In-Tech Summit,2025/06/04,Hyderabad 
+205,Startup Pitch  ,2025-06-05 10:30,delhi!!
+206,AI Conference!!,invalid_date,Mumbai 
+207,health & wellness expo,2025-06-07,Bangalore
+208,Tech Meetup,07-06-2025,DELHI
+209,DATA science Workshop,2025-06-09,Bangalore 
+210,Startup Pitch,June 10 2025,mumbai
+211,Women-In-Tech Summit ,2025/06/11,Hyderabad
+212,AI conference,2025-06-12,DELHI 
+213,Health & Wellness Expo,12-06-2025,bangalore!!
+214,Tech meetup ,2025.06.14,Mumbai
+215,Startup Pitch!!,2025-06-15 15:45,delhi
+216,Data Science Workshop,2025-06-16,BANGALORE
+217,AI Conference,2025/06/17,mumbai!!
+218,Women in Tech summit,17-06-2025, Hyderabad
+219,Health & wellness expo ,"June 19, 2025",Delhi
+220,tech meetup,2025-06-20,MUMBAI 
