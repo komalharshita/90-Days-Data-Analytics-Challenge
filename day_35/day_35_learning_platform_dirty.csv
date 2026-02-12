@@ -1,0 +1,51 @@
+user_id,course_category,age,hours_spent,completion_rate,subscription_type
+3001,AI,45,17.97,0.3,Paid
+3002,Web Dev,25,4.08,-0.2,Trial
+3003,web development,21,4.67,1.1,PAID
+3004,Data Science,24,8.7,0.9,Free
+3005,data science,23,0.28,0.9,Free
+3006,Web Dev,19,0.9,0.7,Trial
+3007,AI,60,9.43,-0.2,Paid
+3008,Data Science,21,0.18,1.1,Trial
+3009,Data Science,22,12.88,0.1,Paid
+3010,data science,45,4.67,0.7,Free
+3011,web development,19,3.57,,PAID
+3012,AI,,13.36,0.1,Free
+3013,web development,22,2.84,0.7,Free
+3014,ai,18,4.64,0.3,Trial
+3015,data science,21,6.34,0.5,Paid
+3016,DS,60,2.69,,free
+3017,web development,20,5.08,1.1,Free
+3018,ai,18,6.09,1.1,Trial
+3019,AI,22,0.81,0.9,PAID
+3020,DS,60,7.03,1.1,Free
+3021,web development,20,6.26,0.1,free
+3022,Web Dev,25,2.62,1.1,Paid
+3023,web development,25,8.64,0.1,Trial
+3024,DS,,2.65,1.1,Trial
+3025,web development,60,8.39,0.7,PAID
+3026,AI,45,12.79,0.3,PAID
+3027,ai,24,0.07,0.3,PAID
+3028,DS,60,4.14,,PAID
+3029,web development,21,0.46,1.1,Paid
+3030,data science,25,9.28,0.1,PAID
+3031,data science,25,0.4,-0.2,PAID
+3032,ai,22,2.63,1.1,Trial
+3033,Data Science,23,17.07,,PAID
+3034,ai,60,2.87,0.1,Paid
+3035,AI,21,8.64,0.9,Trial
+3036,data science,24,8.86,0.5,Trial
+3037,data science,45,2.15,1.1,Free
+3038,AI,18,8.89,0.7,PAID
+3039,ai,20,1.0,0.9,PAID
+3040,data science,,5.19,0.5,Free
+3041,data science,25,0.05,-0.2,PAID
+3042,Data Science,25,7.41,-0.2,free
+3043,web development,60,3.82,0.1,Free
+3044,data science,25,8.68,1.1,Paid
+3045,Data Science,21,3.78,,Paid
+3046,Data Science,,1.88,0.7,Paid
+3047,AI,18,10.69,0.7,Free
+3048,Web Dev,45,4.81,1.1,Paid
+3049,DS,25,0.44,1.1,free
+3050,data science,25,3.84,0.3,Trial
