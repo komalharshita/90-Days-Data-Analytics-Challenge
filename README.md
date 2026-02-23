@@ -1,7 +1,7 @@
 💗 90 Days of Data Analytics 💗
 
 ![Days](https://img.shields.io/badge/90%20Days-Challenge-ffb6c1?style=for-the-badge)
-![Progress](https://img.shields.io/badge/Progress-Day%2044%20of%2090-ffc0cb?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-Day%2045%20of%2090-ffc0cb?style=for-the-badge)
 
 This repo documents my **90-day journey into Data Analytics** — learning, practicing, and improving a little every day :))
 
