@@ -1,0 +1,9 @@
+ProductID,ProductName,Category
+P101,Laptop,Electronics
+P102,Phone,Electronics
+P103,Tablet,Electronics
+P104,Headphones,Electronics
+P105,Chair,Furniture
+P106,Table,Furniture
+P107,Sofa,Furniture
+P108,Bookshelf,Furniture
