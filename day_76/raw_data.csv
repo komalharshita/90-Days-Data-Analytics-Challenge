@@ -1,0 +1,6 @@
+Customer,Age,Product,Price,Quantity
+Alice,25.0,Laptop,50000.0,1.0
+Bob,30.0,Phone,20000.0,2.0
+Charlie,,Tablet,,1.0
+David,22.0,Laptop,50000.0,1.0
+,28.0,Phone,20000.0,

@@ -1,0 +1,8 @@
+CustomerID,Name,Age,Product,Price,Quantity,Revenue
+1,Alice,25,Laptop,50000,1,50000
+1,Alice,25,Tablet,15000,2,30000
+2,Bob,30,Phone,20000,2,40000
+2,Bob,30,Tablet,15000,1,15000
+3,Charlie,35,Laptop,50000,1,50000
+3,Charlie,35,Phone,20000,1,20000
+4,David,28,Laptop,50000,1,50000
